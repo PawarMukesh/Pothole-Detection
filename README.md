@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b4275fc-fccd-43f8-b6b8-a3fdebaf2f3d)# Visual Intelligence For Road Safety: Potholes Detection Using YoloV5
+# Visual Intelligence For Road Safety: Potholes Detection Using YoloV5
 
 ## Objective
 The objective of this business case is to develop an advanced Pothole Detection System leveraging image datasets. Potholes pose significant risks to road safety and infrastructure, leading to accidents, vehicle damage, and increased maintenance costs. By implementing an automated system to detect and monitor potholes, we aim to enhance road safety, reduce maintenance expenses, and contribute to overall transportation efficiency.
@@ -39,7 +39,7 @@ Evaluate the Model on the testing images with different angles as well as on vid
 ![image](https://github.com/user-attachments/assets/9df86a05-2c11-4682-b3ca-bc179192b630)
 ![image](https://github.com/user-attachments/assets/52be2824-bc9a-4e8c-b2d9-a68dbdc08f02)
 
-## Testing on Video
+## Testing on Video ![image](https://github.com/user-attachments/assets/1b4275fc-fccd-43f8-b6b8-a3fdebaf2f3d)
 
 
 
