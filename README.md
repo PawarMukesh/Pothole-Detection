@@ -37,13 +37,11 @@ The objective of this business case is to develop an advanced Pothole Detection 
 ##  Testing 
 Evaluate the Model on the testing images with different angles as well as on videos
 ![image](https://github.com/user-attachments/assets/9df86a05-2c11-4682-b3ca-bc179192b630)
-![image](https://github.com/user-attachments/assets/52be2824-bc9a-4e8c-b2d9-a68dbdc08f02)
 
 ## ![image](https://github.com/user-attachments/assets/1b4275fc-fccd-43f8-b6b8-a3fdebaf2f3d)
-https://github.com/PawarMukesh/Pothole-Detection-/blob/mukesh/Potholes-1.mp4
 
 
-
+https://github.com/user-attachments/assets/7f182678-26aa-45c1-811d-80eded33c1dd
 
 
 
