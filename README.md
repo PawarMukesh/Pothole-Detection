@@ -38,8 +38,7 @@ The objective of this business case is to develop an advanced Pothole Detection 
 Evaluate the Model on the testing images with different angles as well as on videos
 ![image](https://github.com/user-attachments/assets/9df86a05-2c11-4682-b3ca-bc179192b630)
 
-## ![image](https://github.com/user-attachments/assets/1b4275fc-fccd-43f8-b6b8-a3fdebaf2f3d)
-
+## Testing on Video
 
 https://github.com/user-attachments/assets/7f182678-26aa-45c1-811d-80eded33c1dd
 
